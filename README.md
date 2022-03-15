@@ -15,22 +15,21 @@ https://github.com/lucialuna/masteruah.git
 <img width="471" alt="Cinicial" src="https://user-images.githubusercontent.com/100085938/158353939-ab2d579c-116c-4e15-acef-3abeda040b30.png">
 
 **Añadir fichero 1.txt**
-![imagen](https://user-images.githubusercontent.com/100085938/158360157-2ae66b4a-28f4-4ce3-bcfb-1e5c4b7177b1.png)
+
+<img width="475" alt="fichero1" src="https://user-images.githubusercontent.com/100085938/158487692-192b30d0-47d9-4e47-b3e2-157d9f660826.png">
 
 **fichero 2.txt**
 
-![image-20220315191209331](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315191209331.png)
-
+<img width="469" alt="fichero2" src="https://user-images.githubusercontent.com/100085938/158487697-1d1e927b-d715-4d93-b0aa-ba432ffcd933.png">
 
  **Merge directo**
 
-![image-20220315191821620](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315191821620.png)
-
+<img width="472" alt="mergedirec" src="https://user-images.githubusercontent.com/100085938/158487704-017652e6-5c51-4791-92f8-06dcdadf2b7d.png">
 
 
 **Merge con conflicto**
 
-![image-20220315192139447](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315192139447.png)
+
 
 
 
