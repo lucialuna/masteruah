@@ -38,3 +38,9 @@ https://github.com/lucialuna/masteruah.git
 **Listado de ramas**
 
 <img width="431" alt="listadoramas" src="https://user-images.githubusercontent.com/100085938/158490171-eaaadf8f-d2b2-4717-afa0-cb053fa7f829.png">
+
+**Arreglar conflicto**
+
+<img width="411" alt="arregladoconflic" src="https://user-images.githubusercontent.com/100085938/158490595-9291c551-7eb6-4bbd-8876-c10a26f9faab.png">
+
+
