@@ -19,7 +19,8 @@ https://github.com/lucialuna/masteruah.git
 
 **fichero 2.txt**
 
-![image-20220315191209331](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315191209331.png)
+<img width="475" alt="fichero2cap" src="https://user-images.githubusercontent.com/100085938/158486625-0fde66a8-c416-4966-81f6-6124daa65472.png">
+
 
 
  **Merge directo**
