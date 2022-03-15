@@ -14,7 +14,8 @@ https://github.com/lucialuna/masteruah.git
 
 <img width="471" alt="Cinicial" src="https://user-images.githubusercontent.com/100085938/158353939-ab2d579c-116c-4e15-acef-3abeda040b30.png">
 
-###### **Añadir fichero 1.txt**
+**Añadir fichero 1.txt**
+![imagen](https://user-images.githubusercontent.com/100085938/158360157-2ae66b4a-28f4-4ce3-bcfb-1e5c4b7177b1.png)
 
-![image-20220315113622591](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315113622591.png)
+
 
