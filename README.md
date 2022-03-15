@@ -15,7 +15,8 @@ https://github.com/lucialuna/masteruah.git
 <img width="471" alt="Cinicial" src="https://user-images.githubusercontent.com/100085938/158353939-ab2d579c-116c-4e15-acef-3abeda040b30.png">
 
 **Añadir fichero 1.txt**
-![imagen](https://user-images.githubusercontent.com/100085938/158360157-2ae66b4a-28f4-4ce3-bcfb-1e5c4b7177b1.png)
+<img width="471" alt="fichero1" src="https://user-images.githubusercontent.com/100085938/158486940-5230586c-a1a1-444c-a1ff-a03033a99151.png">
+
 
 **fichero 2.txt**
 
@@ -24,8 +25,8 @@ https://github.com/lucialuna/masteruah.git
 
 
  **Merge directo**
-![imagen](https://user-images.githubusercontent.com/100085938/158486690-42c6b818-0ddc-483c-a1d0-c62deebff862.png)
 
+<img width="473" alt="mergedirect" src="https://user-images.githubusercontent.com/100085938/158487034-dd10067e-7990-4180-b8dc-f259a4154635.png">
 
 
 **Merge con conflicto**
