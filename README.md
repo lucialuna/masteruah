@@ -24,14 +24,13 @@ https://github.com/lucialuna/masteruah.git
 
 
  **Merge directo**
-
-![image-20220315191821620](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315191821620.png)
+![imagen](https://user-images.githubusercontent.com/100085938/158486690-42c6b818-0ddc-483c-a1d0-c62deebff862.png)
 
 
 
 **Merge con conflicto**
 
-![image-20220315192139447](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315192139447.png)
 
+<img width="472" alt="mergeconfli" src="https://user-images.githubusercontent.com/100085938/158486804-7397ba5c-2e72-47ff-989e-077ee0d61a9c.png">
 
 
