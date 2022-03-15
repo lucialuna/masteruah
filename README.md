@@ -17,5 +17,20 @@ https://github.com/lucialuna/masteruah.git
 **Añadir fichero 1.txt**
 ![imagen](https://user-images.githubusercontent.com/100085938/158360157-2ae66b4a-28f4-4ce3-bcfb-1e5c4b7177b1.png)
 
+**fichero 2.txt**
+
+![image-20220315191209331](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315191209331.png)
+
+
+ **Merge directo**
+
+![image-20220315191821620](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315191821620.png)
+
+
+
+**Merge con conflicto**
+
+![image-20220315192139447](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220315192139447.png)
+
 
 
