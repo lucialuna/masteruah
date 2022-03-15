@@ -34,3 +34,6 @@ https://github.com/lucialuna/masteruah.git
 **Posicionarse en la rama v0.2 y poner Adios en el fichero "1.txt" y hacer commit.**
 
 <img width="416" alt="adios" src="https://user-images.githubusercontent.com/100085938/158489418-ef00b65a-6f0d-4809-8628-ea98b8b2f652.png">
+
+**Listado de ramas**
+<img width="431" alt="listadoramas" src="https://user-images.githubusercontent.com/100085938/158490171-eaaadf8f-d2b2-4717-afa0-cb053fa7f829.png">
