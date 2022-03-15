@@ -29,6 +29,7 @@ https://github.com/lucialuna/masteruah.git
 
 **Merge con conflicto**
 
+<img width="474" alt="mergeconfli" src="https://user-images.githubusercontent.com/100085938/158488821-c9492679-f50f-4b20-90bb-0a82fa4c4d7d.png">
 
 
 
