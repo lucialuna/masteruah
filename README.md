@@ -43,4 +43,11 @@ https://github.com/lucialuna/masteruah.git
 
 <img width="411" alt="arregladoconflic" src="https://user-images.githubusercontent.com/100085938/158490595-9291c551-7eb6-4bbd-8876-c10a26f9faab.png">
 
+**Listado de cambios**
+
+<img width="434" alt="listado" src="https://user-images.githubusercontent.com/100085938/158560852-f7d8773c-a58d-46d7-8b3c-13b62c46ffe0.png">
+
+
+
+
 
