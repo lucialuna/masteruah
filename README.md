@@ -1,3 +1,4 @@
+
 # masteruah
 **Creamos un repositorio**
 
@@ -43,4 +44,44 @@ https://github.com/lucialuna/masteruah.git
 **Posicionarse en la rama v0.2 y poner Adios en el fichero "1.txt" y hacer commit.**
 
 ![image-20220316003623057](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220316003623057.png)
+
+
+
+**Listado de ramas**
+
+![image-20220316004514143](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220316004514143.png)
+
+
+
+###### **Arreglar conflicto**
+
+![image-20220316004921972](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220316004921972.png)
+
+
+
+Listado de cambios 
+
+![image-20220316103945163](C:\Users\Lucía Luna\AppData\Roaming\Typora\typora-user-images\image-20220316103945163.png)
+
+
+
+| \|        NOMBRE          \|                     GITHUB                        \| |
+| ------------------------------------------------------------ |
+|                                                              |
+
+| \|------------------------\|---------------------------------------------------\| |
+| ------------------------------------------------------------ |
+|                                                              |
+
+| \| Irene Alba\| https://github.com/Ireealba/masteruah.git \| |
+| ------------------------------------------------------------ |
+|                                                              |
+
+| \| Adrián Luque \| https://github.com/ladriank-education \| |
+| ----------------------------------------------------------- |
+|                                                             |
+
+| \|  Lucía Ayllón\| \| [https://github.com/luciaayllon7](http://github.com/i12vecaj) \| |
+| ------------------------------------------------------------ |
+|                                                              |
 
